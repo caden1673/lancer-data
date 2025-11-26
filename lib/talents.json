@@ -9,18 +9,16 @@
       {
         "name": "Paracausal Perception",
         "description": "Within your sensor range you can detect paracausal events and how reality is changing from baseline.",
-        "actions": [
-          {
-            "name": "Paracausal Stability",
-            "activation": "Reaction",
-            "trigger": "Any time an attack misses you.",
-            "detail": "You may fly up to 2 spaces in any direction."
-          }
-        ]
       },
       {
         "name": "Paracausal Stability",
         "description": "You gain the ability to influence nearby paracausal events.",  
+        "actions": [
+          {
+            "name": "DELVE",
+            "activation": "Quick Action",
+            "detail": "[description]."
+          }
       },
       {
         "name": "[tier 3]",
